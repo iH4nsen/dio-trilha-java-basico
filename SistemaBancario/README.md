@@ -1,10 +1,10 @@
-## Simulação Bancaria 
+# Simulação Bancaria 
 
-###Descrição
+## Descrição
 
 Você está desenvolvendo um programa simples em Java para simular operações bancárias básicas. A aplicação deve permitir ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual.
 
-###Entrada
+## Entrada
 
 O programa exibirá um menu com as seguintes opções:
 
@@ -14,7 +14,7 @@ O programa exibirá um menu com as seguintes opções:
 - Encerrar
 O usuário escolherá uma dessas opções digitando o número correspondente.
 
-###Saída
+## Saída
 
 Utilizando um switch, o programa realizará a operação escolhida pelo usuário.
 
